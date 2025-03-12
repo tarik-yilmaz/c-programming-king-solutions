@@ -1,36 +1,41 @@
 # C Programming: Exercises & Projects – Solutions
 
-📘 **About this Repository**
-This repository contains my solutions to the **exercises and projects** from the book *C Programming: A Modern Approach (2nd Edition)* by K. N. King. It serves as a learning resource for anyone looking to practice C programming and improve problem-solving skills.
+📘 **About this Repository**  
+This repository contains my **original solutions** to programming exercises inspired by the book  
+*C Programming: A Modern Approach (2nd Edition)* by K. N. King.  
 
-📌 **Repository Structure:**
-The repository is divided into two main sections:
-- **📂 Exercises:** Solutions to chapter-based practice problems.
-- **📂 Projects:** More comprehensive coding challenges to apply key concepts.
+It serves as a **learning resource** for anyone looking to practice C programming, improve problem-solving skills,  
+and gain a deeper understanding of **fundamental programming concepts**.
 
-📌 **How to Use This Repository:**
-- Each chapter folder contains a `README.md` summarizing the covered topics.
-- Solutions are written in **ANSI C** and can be compiled using GCC:
+📌 **Repository Structure:**  
+The repository is divided into two main sections:  
+- **📂 Exercises:** Solutions based on chapter-wise practice problems.  
+- **📂 Projects:** More comprehensive coding challenges that apply key concepts.  
+
+📌 **How to Use This Repository:**  
+- Solutions are written in **ANSI C** and can be compiled using GCC:  
   ```sh
   gcc exercise_1_1.c -o exercise_1_1
   ./exercise_1_1
   ```
-- Feel free to **clone, modify, or contribute** to the repository!
+- This repository is meant as a **learning resource**, where you can study and analyze the solutions.  
+- **The code will remain unchanged**, as it reflects my personal solutions for future reference.  
 
-📌 **Important Notes:**
-- The **original problem statements from the book are not included** due to copyright reasons.
-- Each solution file includes a brief summary of the problem in its comments.
-- This repository is meant for **learning purposes** and not for direct copying.
+📌 **Important Notes:**  
+- **This repository does not include any problem statements from the book** to comply with copyright rules.  
+- The solutions are **written in my own words**, and only general problem summaries are provided.  
+- This repository is meant to serve as a **free learning resource**—you are encouraged to study and adapt the solutions to improve your coding skills.  
 
-📌 **Contributions:**
-- If you have alternative solutions or optimizations, feel free to submit a **pull request**! 🚀
-- For discussions or improvements, open an **issue**.
+📌 **Feedback & Discussions:**  
+- If you have **suggestions** or want to discuss alternative approaches, feel free to open an **issue**.  
+- However, **pull requests modifying the code will not be merged**, as this repository is meant to reflect my personal solutions.  
 
-📌 **License:**
-This repository is licensed under the **MIT License**, allowing free use, modification, and distribution with proper attribution. See the [LICENSE](./LICENSE) file for details.
+📌 **License:**  
+This repository is licensed under the **MIT License**, allowing free use, modification, and distribution with proper attribution.  
+See the [LICENSE](./LICENSE) file for details.  
 
 ---
-📬 **Contact:** If you have any questions or suggestions, feel free to reach out!
+
+📬 **Contact:** If you have any questions or suggestions, feel free to reach out!  
 
 Happy coding! 😊
-
