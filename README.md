@@ -12,6 +12,9 @@ The repository is divided into two main sections:
 - **📂 Exercises:** Solutions based on chapter-wise practice problems.  
 - **📂 Projects:** More comprehensive coding challenges that apply key concepts.  
 
+**Status:**  
+*This repository is a work in progress. Additional exercises and projects will be added over time.*
+
 📌 **How to Use This Repository:**  
 - Solutions are written in **ANSI C** and can be compiled using GCC:  
   ```sh
