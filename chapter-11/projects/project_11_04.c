@@ -5,8 +5,6 @@
  * All external variables from the original implementation have been removed.
  * Data is passed explicitly between functions using parameters and pointers.
  *
- * Author: [Your Name]
- * Date: [YYYY-MM-DD]
  */
 
 #include <stdio.h>
